@@ -1,4 +1,4 @@
-# MHCH+SSA
+# RSSN for MHCH+SSA
 Core implementation of EMNLP-2021 paper: [A Role-Selected Sharing Network for Joint Machine-Human Chatting Handoff and Service Satisfaction Analysis](https://arxiv.org/abs/2109.08412)
 
 <div align=center><img src="./resources/exemplar.png" height="500"/></div>
